@@ -2,5 +2,6 @@
 Programmers life
 
 Hi Googler;
-am Steve.
-Node.js | JS | C++ | Python | HTML | mySQL | Kotlin
+am Steve, a front-end Dev. 
+Currently working to be a full stack dev!
+Node.js | JS | C++ | mySQL | Kotlin
